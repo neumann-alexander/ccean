@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/410369848.svg)](https://zenodo.org/badge/latestdoi/410369848)
+
+
 # CCEAN
 The **c**ell **c**ount **e**stimator aided by **a**rea calculatio**n**
 
@@ -65,6 +68,8 @@ More preciseliy, CCEAN processes images as follows:
 ## Usage
 
 CCEAN was tested for Windows 7 and Windows 10. Download and extract the repository. Then use the Windows terminal to start the CCEAN.exe. The program will guide you through the process.
+
+If CCEAN helps you in your research, please cite via DOI 10.5281/zenodo.8475
 
 
 
